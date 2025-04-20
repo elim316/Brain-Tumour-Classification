@@ -1,5 +1,16 @@
 # 🧠 Brain Tumor Classification with EfficientNet
 
+![Project Type](https://img.shields.io/badge/Project-Medical%20Imaging-blue)
+![Built With](https://img.shields.io/badge/Built%20With-Python-yellow)
+![Models](https://img.shields.io/badge/Models-Multi--CNN-green)
+![Dataset](https://img.shields.io/badge/Dataset-Kaggle-lightgrey)
+
+
+This project applies deep learning to classify brain MRI scans into four categories: **glioma**, **meningioma**, **pituitary tumor**, and **no tumor**. Using several different model architectures, the models achieve high accuracy through advanced preprocessing, data augmentation, and class balancing techniques.
+
+The goal is to support medical diagnostics with AI-powered image classification, delivering consistent and interpretable results on complex medical imaging data.
+
+
 This project applies deep learning to classify brain MRI scans into four categories: **glioma**, **meningioma**, **pituitary tumor**, and **no tumor**. Using the several different model architectures, the models achieves high accuracy through advanced preprocessing, data augmentation, and class balancing techniques.  
 
 The goal is to support medical diagnostics with AI-powered image classification, delivering consistent and interpretable results on complex medical imaging data.
